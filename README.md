@@ -217,7 +217,7 @@ The project follows a comprehensive testing strategy with multiple layers of tes
 1. **Run All Tests**
 
    ```shell
-   mvn test
+   mvn test or .\mvnw.cmd test
    ```
 
 2. **Run Specific Test Class**
